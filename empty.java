@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.*;
 public class empty {
     public static void main(String args[]) {
